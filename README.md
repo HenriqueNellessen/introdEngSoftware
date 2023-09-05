@@ -5,6 +5,9 @@
 
 O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
 
+Alunos:
+Henrique Magyarics Nellessen - 32110901
+
 A seguir, os passos para a preparação do projeto:
 
 1. Um dos membros do grupo deverá realizar um *fork* deste repositório.
