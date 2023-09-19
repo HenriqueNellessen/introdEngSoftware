@@ -19,9 +19,9 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<PizzaHot>*
+# Projeto: PizzaHot
 
-# Grupo: *<Projeto HIPJ>*
+# Grupo: Projeto HIPJ
 
 # Descrição
 A Pizza-Express é uma cadeia de 40 lojas de fast-food e entrega em casa.
