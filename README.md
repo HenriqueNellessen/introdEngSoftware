@@ -45,4 +45,15 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+1.      Fases do projeto in loco e homework
+
+a)     Fase I (10% N1) - Iniciar a documentação e Análise de requisitos.
+        documentacaoAnalise.txt
+
+b)     Fase II (30% N1) - Diagrama de Caso de Usos
+
+
+c.      Fase III (30% N1) - Descrição dos Requisitos no Caso de Usos
+
+
+d.      Fase IV (10% N1) - Diagrama de Sequência
