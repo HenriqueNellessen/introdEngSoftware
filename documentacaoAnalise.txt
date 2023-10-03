@@ -1,0 +1,13 @@
+Pizza-Express(40lojas que entregam em casa)
+Perda de 30% rendimento(Problema na entrega, demora 1 hora)
+Concorrente entregando em 30min
+computadores para armazenar as operações e as funções usuais do negócio, mas não auxiliam nas funções para processar a entrega dos pedidos dos seus clientes
+Elonn Muske(gerente responsavel parar desenvolver e melhorar a ferramenta e delivery)
+Patrocinador Papa-Léguas Delivery
+Objetivo é entregar em menos de 30min
+Entregar entre 10min a 15min
+Pizzaria não deve ter varejo(espaço pra consumo) só para receber pedidos, preparar e entregar
+
+DOIS SOFTWARES
+1- Atender o pedido, localizar a fabrica de pizza para entregar pro cliente
+2- Suportar operações da fabrica de pizzas(receber os pedidos ja com uma das 40 lojas definidas, produzir e entregar a pizza pro cliente)
