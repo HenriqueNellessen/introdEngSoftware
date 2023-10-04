@@ -12,9 +12,10 @@ a)     Fase I (10% N1) - Iniciar a documentação e Análise de requisitos.
         documentacaoAnalise.txt
 
 b)     Fase II (30% N1) - Diagrama de Caso de Usos
-
+        DiagramaCasosDeUso
 
 c.      Fase III (30% N1) - Descrição dos Requisitos no Caso de Usos
-
+        Casos de uso
 
 d.      Fase IV (10% N1) - Diagrama de Sequência
+        DiagramaDeSequência
