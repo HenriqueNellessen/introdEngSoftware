@@ -19,3 +19,11 @@ c.      Fase III (30% N1) - Descrição dos Requisitos no Caso de Usos
 
 d.      Fase IV (10% N1) - Diagrama de Sequência
         DiagramaDeSequência
+
+e.      Fase V (20% N2) - Diagramas de Classes
+
+f.      Fase VI (30% N2) - Diagrama de Classes.
+
+g.      Fase VII (30% N2) - Decisão da Arquitetura
+
+h.      Fase VIII (20% N2) - Diagrama de Implantação
